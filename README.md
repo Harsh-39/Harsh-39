@@ -1,61 +1,84 @@
-<!-- Animated header -->
+<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Harsh!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20ZeroSync%20UPI&descAlignY=55&descSize=20" alt="Hi there, I'm Harsh" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Aarushi!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" alt="Header" />
+
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&color=808080&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;Building+ZeroSync+UPI" alt="Typing introduction" />
-  <br>
-  <a href="https://github.com/Harsh-39">
-    <img src="https://komarev.com/ghpvc/?username=Harsh-39&label=Profile%20Views&color=6DB33F&style=flat-square" alt="Profile views" />
+
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&color=808080&lines=Computer+Science+Undergrad+@VIT+Bhopal;Backend+Developer;Spring+Boot+%7C+Microservices;AI+Enthusiast" alt="Typing SVG" />
   </a>
+
+  <br>
+  
+  <p>
+    <a href="https://github.com/aarushichaddha">
+      <img src="https://komarev.com/ghpvc/?username=aarushichaddha&label=Profile%20Views&color=6DB33F&style=flat-square" alt="Profile Views" />
+    </a>
+  </p>
 </div>
 
 ---
 
 ### 💫 About Me
 
-- 💻 I build backend applications with **Java** and **Spring Boot**.
-- 🚀 Currently working on **ZeroSync UPI**, an offline payment mesh simulator.
-- 🔐 Interested in encrypted payment flows, REST APIs, and reliable transaction processing.
-- 🧩 I enjoy building practical projects and turning backend concepts into working demos.
-- 🌱 Learning by building and improving real software projects.
-- 💬 Ask me about Java, Spring Boot, REST APIs, and ZeroSync UPI.
+- 🎓 **Computer Science undergraduate** at **VIT Bhopal** with a strong foundation in DSA & Backend Development.
+- 🏆 **Achievements:** Published Researcher (AI in Automated Hate Speech Detection) & Global Rank 1084 in Goldman Sachs Hackathon.
+- 💻 Passionate about building scalable backend systems and AI-powered applications.
+- 🚀 **Currently working on:** Backend systems using **Spring Boot & Microservices**, and AI applications with **Spring AI & LLMs**.
+- 🧠 **Currently learning:** Advanced System Design, AWS Cloud, Scalable Microservices Architecture.
+- 🤝 **Looking to collaborate on:** Backend development, Open-source contributions, and AI/ML projects.
+- 💬 **Ask me about:** Java, DSA, OOPs, Spring Boot & REST APIs, Backend Architecture, Security (JWT, RBAC).
+- ⚡ **Fun fact:** I’ve solved **400+ DSA problems** and love turning complex problems into simple solutions!
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 **Languages**
-
 <p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 **Backend & Frameworks**
-
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-181717?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Data-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT%20Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
 **Databases & Cloud**
-
 <p>
-  <img src="https://img.shields.io/badge/H2-1E4D2B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-**Tools & Platforms**
-
+**Tools & Data Science**
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
 ---
@@ -64,15 +87,15 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-39&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/Harsh-39)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarushichaddha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/aarushichaddha)
 
-<br>
+<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-39&theme=dark&hide_border=false)](https://github.com/Harsh-39)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarushichaddha&theme=dark&hide_border=false)](https://github.com/aarushichaddha)
 
-<br>
+<br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-39&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Harsh-39)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarushichaddha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/aarushichaddha)
 
 </div>
 
@@ -81,11 +104,11 @@
 ### 🏆 Coding Profiles
 
 <p>
-  <a href="https://github.com/Harsh-39">
-    <img src="https://img.shields.io/badge/GitHub-Harsh--39-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://leetcode.com/u/aarushichaddha/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://github.com/Harsh-39/ZeroSync-UPI">
-    <img src="https://img.shields.io/badge/ZeroSync%20UPI-Project-3b82f6?style=for-the-badge&logo=java&logoColor=white" alt="ZeroSync UPI project" />
+  <a href="https://www.geeksforgeeks.org/profile/aarushi23lmvg">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </p>
 
@@ -94,17 +117,17 @@
 ### 📫 Let's Connect
 
 <p>
-  <a href="mailto:harshlawaniya11@gmail.com">
+  <a href="https://linkedin.com/in/aarushichaddha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aarushichaddha0209@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Harsh-39">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://zerosync-upi.onrender.com/">
-    <img src="https://img.shields.io/badge/Live%20Demo-10B981?style=for-the-badge&logo=render&logoColor=white" alt="Live demo" />
+  <a href="https://instagram.com/aarushichaddha_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
