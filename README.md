@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Aarushi!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Harsh!%20👋&fontSize=50&fontAlignY=35&animation=twinkling&desc=Backend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=20" alt="Header" />
 
   <br>
 
@@ -11,8 +11,8 @@
   <br>
   
   <p>
-    <a href="https://github.com/aarushichaddha">
-      <img src="https://komarev.com/ghpvc/?username=aarushichaddha&label=Profile%20Views&color=6DB33F&style=flat-square" alt="Profile Views" />
+    <a href="https://github.com/Harshchaddha">
+      <img src="https://komarev.com/ghpvc/?username=Harshchaddha&label=Profile%20Views&color=6DB33F&style=flat-square" alt="Profile Views" />
     </a>
   </p>
 </div>
@@ -87,15 +87,15 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aarushichaddha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/aarushichaddha)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshchaddha&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/Harshchaddha)
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aarushichaddha&theme=dark&hide_border=false)](https://github.com/aarushichaddha)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harshchaddha&theme=dark&hide_border=false)](https://github.com/Harshchaddha)
 
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aarushichaddha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/aarushichaddha)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshchaddha&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/Harshchaddha)
 
 </div>
 
@@ -104,10 +104,10 @@
 ### 🏆 Coding Profiles
 
 <p>
-  <a href="https://leetcode.com/u/aarushichaddha/">
+  <a href="https://leetcode.com/u/Harshchaddha/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/aarushi23lmvg">
+  <a href="https://www.geeksforgeeks.org/profile/Harsh23lmvg">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 </p>
@@ -117,13 +117,13 @@
 ### 📫 Let's Connect
 
 <p>
-  <a href="https://linkedin.com/in/aarushichaddha">
+  <a href="https://linkedin.com/in/Harshchaddha">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:aarushichaddha0209@gmail.com">
+  <a href="mailto:Harshchaddha0209@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/aarushichaddha_">
+  <a href="https://instagram.com/Harshchaddha_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
